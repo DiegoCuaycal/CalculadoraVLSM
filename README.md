@@ -42,45 +42,39 @@ El sistema fue probado en **emuladores Pixel 6 API 33 (P65)** y **Pixel 5 API 36
 ## 📸 Capturas de Pantalla
 
 ### 1️⃣ Ingreso de Red Padre, Prefijo y Cantidad de Subredes
-Se ingresan los datos iniciales de la red.
-> ![image](https://github.com/user-attachments/assets/2eb15fc7-c36b-4cdc-a4c2-53631582ed77)
-
+Se ingresan los datos iniciales de la red.  
+<img src="https://github.com/user-attachments/assets/2eb15fc7-c36b-4cdc-a4c2-53631582ed77" width="600"/>
 
 ---
 
 ### 2️⃣ Formulario dinámico para ingresar subredes
-Subredes con nombre y cantidad de hosts requeridos.
-> ![image](https://github.com/user-attachments/assets/9b61bf37-6760-489c-a405-b32b954dbc3f)
-
+Subredes con nombre y cantidad de hosts requeridos.  
+<img src="https://github.com/user-attachments/assets/9b61bf37-6760-489c-a405-b32b954dbc3f" width="600"/>
 
 ---
 
 ### 3️⃣ Validaciones activas (campo vacío o datos inválidos)
-Validación de campos incompletos y prefijos fuera de rango.
-> ![image](https://github.com/user-attachments/assets/d693d2e8-d80d-44ce-8c52-e93c85a1e099)
-> ![image](https://github.com/user-attachments/assets/4dab258d-4a0a-4f0a-a1a8-9ebefbb864f0)
-
+Validación de campos incompletos y prefijos fuera de rango.  
+<img src="https://github.com/user-attachments/assets/d693d2e8-d80d-44ce-8c52-e93c85a1e099" width="420"/>
+<img src="https://github.com/user-attachments/assets/4dab258d-4a0a-4f0a-a1a8-9ebefbb864f0" width="420"/>
 
 ---
 
 ### 4️⃣ Comparación con ejercicio matemático de VLSM
-Ejercicio resuelto manualmente y graficado.
-> ![image](https://github.com/user-attachments/assets/5913329e-84ee-4d7f-98bd-869ffac9bd23)
-
+Ejercicio resuelto manualmente y graficado.  
+<img src="https://github.com/user-attachments/assets/5913329e-84ee-4d7f-98bd-869ffac9bd23" width="800"/>
 
 ---
 
 ### 5️⃣ Resultados generados por la aplicación
-Muestra final del cálculo con todos los parámetros.
-> ![image](https://github.com/user-attachments/assets/a213617a-ff3f-4854-95a0-4975ffe05483)
-
+Muestra final del cálculo con todos los parámetros.  
+<img src="https://github.com/user-attachments/assets/a213617a-ff3f-4854-95a0-4975ffe05483" width="600"/>
 
 ---
 
 ### 🖼️ Evidencia general del proyecto
 Vista completa del funcionamiento visual de la aplicación.  
-> ![image](https://github.com/user-attachments/assets/2e69cdae-c937-46f9-98a8-afdb455c8fdd)
-
+<img src="https://github.com/user-attachments/assets/2e69cdae-c937-46f9-98a8-afdb455c8fdd" width="900"/>
 
 ---
 
@@ -106,5 +100,6 @@ Vista completa del funcionamiento visual de la aplicación.
 ## 📚 Créditos
 
 Desarrollado por **Diego Cuaycal** como parte del proyecto académico de la asignatura **Aplicaciones Móviles** en la **Universidad Técnica del Norte**, bajo la guía del docente **MSc. Diego Trejo**.
+
 
 
