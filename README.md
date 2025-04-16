@@ -55,8 +55,8 @@ Subredes con nombre y cantidad de hosts requeridos.
 
 ### 3️⃣ Validaciones activas (campo vacío o datos inválidos)
 Validación de campos incompletos y prefijos fuera de rango.  
-<img src="https://github.com/user-attachments/assets/d693d2e8-d80d-44ce-8c52-e93c85a1e099" width="420"/>
-<img src="https://github.com/user-attachments/assets/4dab258d-4a0a-4f0a-a1a8-9ebefbb864f0" width="420"/>
+<img src="https://github.com/user-attachments/assets/d693d2e8-d80d-44ce-8c52-e93c85a1e099" width="400"/>
+<img src="https://github.com/user-attachments/assets/4dab258d-4a0a-4f0a-a1a8-9ebefbb864f0" width="400"/>
 
 ---
 
