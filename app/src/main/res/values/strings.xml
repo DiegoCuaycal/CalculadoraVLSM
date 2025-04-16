@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CalculadoraVLSM</string>
+    <string name="calculadora_vlsm">Calculadora VLSM</string>
+    <string name="nombre_desarrollador">Nombre : Diego Cuaycal</string>
+    <string name="red_padre">Red Padre:</string>
+    <string name="ingresar_red_padre">Ingresar red padre</string>
+    <string name="prefijo_mascara">Prefijo de máscara:</string>
+    <string name="hint_prefijo">Prefijo de máscara</string>
+    <string name="subredes">Subredes:</string>
+    <string name="numero_subredes">Número de subredes</string>
+    <string name="cambiar">Cambiar</string>
+    <string name="calcular">Calcular</string>
+    <string name="resultados_contenido">Resultados generados de la calculadora VLSM</string>
+
+</resources>
+
