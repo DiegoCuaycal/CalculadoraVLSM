@@ -103,3 +103,8 @@ Vista completa del funcionamiento visual de la aplicación.
 
 ---
 
+## 📚 Créditos
+
+Desarrollado por **Diego Cuaycal** como parte del proyecto académico de la asignatura **Aplicaciones Móviles** en la **Universidad Técnica del Norte**, bajo la guía del docente **MSc. Diego Trejo**.
+
+
